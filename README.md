@@ -11,6 +11,6 @@ turned up/disabled/whatever, as it's going to run all the time.  You'll also wan
 One may want to set the desktop background to something to match the presentation, I used unclutter and conky with a clock for this for when the system gets reset, or stops after
 15 minutes or so.  .desktop files will need to be created for when the system starts up and placed in "~/.config/autostart/".
 
-...and of course, crontab.
+...and of course, crontab...conky if you want to have stuff display while not displaying the presentation.
 
 
